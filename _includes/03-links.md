@@ -1,1 +1,1 @@
-[text](https://example.com)
+[LinkidIN]([https://example.com](https://www.linkedin.com/in/anshobrii/))
