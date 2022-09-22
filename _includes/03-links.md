@@ -1,1 +1,2 @@
-[LinkidIN]([https://example.com](https://www.linkedin.com/in/anshobrii/))
+
+[linkidin](https://www.linkedin.com/in/anshobrii/)
