@@ -1,2 +1,2 @@
 
-[linkidin](https://www.linkedin.com/in/anshobrii/)
+[linkedin](https://www.linkedin.com/in/anshobrii/)
